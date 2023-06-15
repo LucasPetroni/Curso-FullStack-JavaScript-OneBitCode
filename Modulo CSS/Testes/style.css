@@ -1,0 +1,32 @@
+h1 {
+  color: blueviolet;
+  font-size: 12px;
+  border: 5px solid purple;
+}
+h4 {
+  color: rgb(0, 26, 255);
+}
+
+li {
+  color: rgb(21, 255, 0);
+}
+body {
+  background-image: url(https://sportshub.cbsistatic.com/i/r/2022/12/27/66d2e2bc-773f-4bdf-a0e2-b41ab0461ca1/thumbnail/1200x675/23e08e2bcdb4d81e0b66a9808c1f246c/kevin-durant-nets-getty.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.luas {
+  color: aqua;
+  border: 2px solid red;
+}
+.big-text {
+  font-size: 24px;
+}
+a[href="https://www.google.com"] 
+{
+  border: 1px solid cornflowerblue;
+}
+body{
+  font-family: 'rubik bubbles', cursive;
+  
+}
